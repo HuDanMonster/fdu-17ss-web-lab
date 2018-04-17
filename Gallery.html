@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/popper.js/1.12.5/umd/popper.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+</head>
+<body>
+<header class="container">
+    <nav class="collapse navbar-collapse navbar navbar-expand-md navbar-light row">
+        <div class="col-sm-auto text-center">
+            <h1>Share Your Travels</h1>
+            <p><em>let us know where you've been</em></p>
+        </div>
+        <ul class="collapse navbar-collapse navbar-nav justify-content-end nav-fill col-md-6 offset-md-1">
+            <a class="nav-link" href="Lab05.html">Gallery</a>
+            <a class="nav-link" href="#">Related Photo</a>
+            <a class="nav-link" href="#">Reviews</a>
+        </ul>
+    </nav>
+</header>
+
+
+<main class="container">
+    <section>
+        <form action="http://www.randyconnolly.com/tests/process.php">
+            <legend>PHOTO DETAILS</legend>
+            <div class="form-group">
+                <label>Title:</label>
+                <input type="text" class="form-control" value="" placeholder="Give your photo a descriptive name">
+            </div>
+            <div class="form-group">
+                <label>Description:</label>
+                <textarea type="text" class="form-control" value="" placeholder="Adding a rich description will help with search results"></textarea>
+            </div>
+            <div class="form-group">
+                <label>Continent</label><br>
+                <select class="form-control" name="Continent">
+                    <option value="Choose continent">Choose continent</option>
+                    <option value="...">...</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Country</label><br>
+                <select class="form-control" name="Country">
+                    <option value="Choose country">Choose country</option>
+                    <option value="...">...</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>City</label><br>
+                <input type="text" class="form-control" name="city" value="">
+            </div>
+
+            <div>
+                Copyright?<br>
+                <input type="radio" name="copyright" value="All right reserved">All rights reserved<br>
+                <input type="radio" name="copyright" value="Creative Commons" checked>Creative Commons<br><br>
+            </div>
+            <div>
+                Creative Commons Types<br>
+                <input type="checkbox" name="ways" value="Attribution">Attribution
+                <input type="checkbox" name="ways" value="Noncommercial">Noncommercial
+                <input type="checkbox" name="ways" value="No Derivative Works">No Derivative Works<br><br>
+                <input type="checkbox">I accept the software license<br><br>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    Rate this photo:<br>
+                    <input type="numebr">
+                </div>
+                <div class="col-sm-8">
+                    Color Collection:<br>
+                    <input type="color">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Date Taken:<br>
+                    <input type="date">
+                </div>
+                <div class="col-sm-4">
+                    Time Taken:<br>
+                    <input type="time"><br><br>
+                </div>
+            </div>
+            <div class="btn-group">
+                <button type="button" class="btn btn-for">Submit</button>
+                <button type="reset" class="btn btn-for">Clear</button>
+            </div>
+        </form>
+    </section>
+</main>
+</body>
+</html>
