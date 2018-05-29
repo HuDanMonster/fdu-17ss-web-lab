@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/bootstrap-theme.css" />
 
 </head>
-
+u'zh
 <body>
     <!-- include header here -->
     <?php

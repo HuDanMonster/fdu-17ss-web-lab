@@ -2,18 +2,20 @@ body, .showTable {
     text-align: center;
 }
 .table1, .show {
-    width: 300px;
+    width: 200px;
 }
 table {
     display: inline-block;
 }
 table th {
-    background-color: rgb(91, 92, 93);
+    background-color: grey;
     color: white;
+    width: 30px;
 }
 .odd td {
-    background-color: rgb(171, 176, 177);
+    background-color: lightgray;
+    width: 30px;
 }
 input[type="button"] {
-    width: 300px;
+    width: 75px;
 }

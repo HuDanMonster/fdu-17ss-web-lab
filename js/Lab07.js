@@ -53,7 +53,8 @@ function createTable() {
             for (var i = 0; i < input_number.value; i++) {
                 input = document.createElement("input");
                 input.type = "text";
-                input.placeholder = "Attr" + i;
+                let m = i + 1;
+                input.placeholder = "Attribute" + m;
                 inputs[inputs.length] = input;
                 input.addEventListener("change", function() {
                     let NotEmpty = true;
