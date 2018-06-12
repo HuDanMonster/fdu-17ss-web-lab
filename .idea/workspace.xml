@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf5ab6e7-703a-4cf6-9705-3d626449c391" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab08.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Lab07.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Lab07.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Lab07.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Lab07.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements/Lab02.md" beforeDir="false" afterPath="$PROJECT_DIR$/requirements/Lab02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-data.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/travel-data.inc.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +19,8 @@
       <file leaf-file-name="Lab07.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab07.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="54">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -36,8 +31,26 @@
       <file leaf-file-name="Lab07.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Lab07.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+            <state relative-caret-position="-1296">
+              <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab03.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab03.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab03.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab03.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="166" column="1" lean-forward="true" selection-start-line="161" selection-end-line="166" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -45,16 +58,13 @@
       <file leaf-file-name="Lab08.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab08.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="459">
               <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-              <folding>
-                <element signature="e#1110#1117#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab07.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lab07.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/Lab07.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
@@ -114,7 +124,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="4" />
     <option name="width" value="1141" />
@@ -128,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,17 +236,19 @@
       <workItem from="1527000079390" duration="2579000" />
       <workItem from="1527339057221" duration="860000" />
       <workItem from="1527583094846" duration="2662000" />
+      <workItem from="1527589470179" duration="383000" />
+      <workItem from="1528013515201" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68498000" />
+    <option name="totallyTimeSpent" value="69263000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-4" y="4" width="1141" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114583336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19555555" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -422,13 +434,6 @@
     <entry file="file://$PROJECT_DIR$/Lab02.html" />
     <entry file="file://$PROJECT_DIR$/requirements/lab03.css" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc" />
-    <entry file="file://$PROJECT_DIR$/lab03.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3097">
-          <caret line="163" column="22" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -447,13 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="49" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -522,13 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/lab07.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="156" column="1" lean-forward="true" selection-start-line="153" selection-end-line="156" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/lab07.js" />
     <entry file="file://D:/XAMPP/htdocs/fdu-17ss-web-lab/Lab09.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
@@ -543,10 +535,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab08.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Lab07.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab07.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        <state relative-caret-position="54">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -555,25 +561,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Lab07.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        <state relative-caret-position="-1296">
+          <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab08.php">
+    <entry file="file://$PROJECT_DIR$/Lab03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="e#1110#1117#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="533">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/Lab07.css">
+    <entry file="file://$PROJECT_DIR$/lab03.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="290">
+          <caret line="166" column="1" lean-forward="true" selection-start-line="161" selection-end-line="166" selection-end-column="1" />
         </state>
       </provider>
     </entry>
